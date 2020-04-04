@@ -1,4 +1,7 @@
 body {
-  background-image: url('./background.jpg');
+  background: url('https://britishheritage.com/uploads/article/2015/11/1310/London_in_winter.jpg?t=1570201276') center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
 }
